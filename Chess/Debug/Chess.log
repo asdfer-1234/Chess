@@ -1,0 +1,19 @@
+﻿  Board.cpp
+C:\Users\user\Documents\Stuff\Programming\Chess\Chess\PawnPiece.h(4,1): error C2504: 'Piece': base class undefined
+  Cell.cpp
+C:\Users\user\Documents\Stuff\Programming\Chess\Chess\PawnPiece.h(4,1): error C2504: 'Piece': base class undefined
+  ChessConsole.cpp
+C:\Users\user\Documents\Stuff\Programming\Chess\Chess\Piece.h(17,13): error C2065: 'cellSize': undeclared identifier
+C:\Users\user\Documents\Stuff\Programming\Chess\Chess\Piece.h(17,23): error C2065: 'cellSize': undeclared identifier
+  Main.cpp
+C:\Users\user\Documents\Stuff\Programming\Chess\Chess\PawnPiece.h(4,1): error C2504: 'Piece': base class undefined
+  Piece.cpp
+C:\Users\user\Documents\Stuff\Programming\Chess\Chess\PawnPiece.h(4,1): error C2504: 'Piece': base class undefined
+  PieceSet.cpp
+C:\Users\user\Documents\Stuff\Programming\Chess\Chess\PawnPiece.h(4,1): error C2504: 'Piece': base class undefined
+  RangedPiece.cpp
+C:\Users\user\Documents\Stuff\Programming\Chess\Chess\PawnPiece.h(4,1): error C2504: 'Piece': base class undefined
+  SlidingPiece.cpp
+C:\Users\user\Documents\Stuff\Programming\Chess\Chess\PawnPiece.h(4,1): error C2504: 'Piece': base class undefined
+  Vector2.cpp
+  Generating Code...
